@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709061688 source:c:\users\17572\desktop\sor\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+	<math.h>
+
